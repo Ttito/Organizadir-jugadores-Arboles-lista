@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1512361187 source:c:\users\luis fernando\desktop\trabajofinal\main.cpp
+	"clases.h"
+	<fstream>
+
+1512361181 c:\users\luis fernando\desktop\trabajofinal\clases.h
+	<iostream>
+	<string>
+	<vector>
+
